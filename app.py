@@ -188,7 +188,7 @@ with tab3:
             "Flower Week 3 (Budset)",
             "Flower Weeks 4-5 (Bulking)",
             "Flower Weeks 6-7 (Hardening)",
-Use code with caution.
+#Use code with caution.
 "Flower Week 8 (Ripening)",
 "Flower Week 9+ (Final Flush)"
 ],
