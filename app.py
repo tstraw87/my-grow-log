@@ -6,7 +6,7 @@ import math
 # Mobile-friendly page configuration
 st.set_page_config(page_title="FloraFlex Master Log", page_icon="🌿", layout="centered")
 
-st.title("🌿 FloraFlex Master Grow Log")
+st.title("🌿 Hoodieghost Grow Log")
 st.caption("Complete Seed-to-Harvest Crop Steering & Measuring Spoon Assistant")
 
 # --- INITIALIZING BASELINE SYSTEM VALUES ---
